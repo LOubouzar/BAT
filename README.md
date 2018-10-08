@@ -10,16 +10,19 @@ Bob hates writing tests for his code. He gets bored doing it. One day, he decide
 ## Wireframes
 
 ### Wireframe for our Sigin page and Instructions
-![Instructions and Signin WireFrame](https://wireframe.cc/FSqQCG)
+Instructions and Signin WireFrame
+(https://wireframe.cc/FSqQCG)
 
 ### Wireframe for our Modal Signin
-![Modal](https://wireframe.cc/CpKmSw)
+Modal
+(https://wireframe.cc/CpKmSw)
 
 ### Wireframe for our test selection and Output
-![Test Selection and Output](https://wireframe.cc/y23RHe)
+Test Selection and Output
+(https://wireframe.cc/y23RHe)
 
 ### Authors
-Leah Oubouzar
-Brandon Corry
-Lauren McDonough
-Laura Ibrahim
+* Leah Oubouzar
+* Brandon Corry
+* Lauren McDonough
+* Laura Ibrahim
